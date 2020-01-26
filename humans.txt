@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rocky Majumdar rmajumdar@gmail.com @rmajumdar
 
 # THANKS
 
